@@ -61,8 +61,6 @@ adk-samples-comprehensive/
     ├── 01_basic_llm_agent/    # Simple LLM agent with tools
     ├── 02_sequential_workflow/ # Step-by-step processing
     ├── 03_parallel_processing/ # Concurrent operations
-    ├── 04_iterative_refinement/ # Loop-based improvement
-    └── 05_multi_agent_system/  # Complex multi-agent setup
 ```
 
 ## 🤖 Sample Descriptions
@@ -81,16 +79,6 @@ adk-samples-comprehensive/
 - **Purpose**: Demonstrates concurrent task execution
 - **Features**: Multi-source data gathering, performance optimization
 - **Use Case**: API aggregation, concurrent analysis, real-time dashboards
-
-### 4. Iterative Refinement (`04_iterative_refinement/`)
-- **Purpose**: Shows loop-based improvement processes
-- **Features**: Quality analysis, iterative enhancement, condition-based termination
-- **Use Case**: Content improvement, quality assurance, optimization
-
-### 5. Multi-Agent System (`05_multi_agent_system/`)
-- **Purpose**: Complex orchestration of multiple specialized agents
-- **Features**: Agent coordination, task delegation, result aggregation
-- **Use Case**: Research automation, complex workflows, enterprise solutions
 
 ## 🛠️ Configuration
 
@@ -160,15 +148,15 @@ print(response)
 
 ## 🆘 Support
 
-- **Documentation**: [Google ADK Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder)
+- **Documentation**: [Google ADK Documentation](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/)
 - **Issues**: Create an issue in this repository
 - **Discussions**: Use GitHub Discussions for questions and ideas
 
 ## 🔗 Related Resources
 
-- [Google ADK Official Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder)
+- [Google ADK Official Documentation](https://google.github.io/adk-docs/)
 - [Gemini API Documentation](https://ai.google.dev/docs)
-- [Agent Development Best Practices](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/best-practices)
+- [Agent Development Best Practices](https://cloud.google.com/products/agent-builder?hl=en)
 
 ---
 
